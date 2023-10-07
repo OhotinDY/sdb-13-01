@@ -25,7 +25,7 @@
 
 Установка, запуск, выполнение входа и проверка сетевого адреса ВМ Metasploitable2:
 
-![sec](https://github.com/OhotinDY/blob/sdb-13-01/sec1.png)
+![sec](https://github.com/OhotinDY/sdb-13-01/blob/main/sec1.png)
 
 Сканирование ВМ Metasploitable2 с использованием **nmap**:
 
@@ -33,7 +33,7 @@
 sudo nmap -sV 192.168.0.165
 ```
 
-![sec](https://github.com/OhotinDY/blob/sdb-13-01/sec2.png)
+![sec](https://github.com/OhotinDY/sdb-13-01/blob/main/sec2.png)
 
 ### Задание 2
 

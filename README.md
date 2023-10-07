@@ -35,6 +35,12 @@ sudo nmap -sV 192.168.0.165
 
 ![sec](https://github.com/OhotinDY/sdb-13-01/blob/main/sec2.png)
 
+Примеры уязвимостей со ссылками:
+
+- vsftpd 2.3.4 - https://www.exploit-db.com/exploits/49757
+- ProFTPD 1.3.1 - https://www.exploit-db.com/exploits/15449
+- MySQL 5.0.51a-3ubuntu5 - https://www.exploit-db.com/exploits/30020
+
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
